@@ -83,6 +83,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/codewithstack/codewithstack/output/snake.svg" alt="Snake animation" />
-
 ###
